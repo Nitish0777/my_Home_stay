@@ -1,4 +1,4 @@
-# HomeStays
+# MYHomeStays
 
 ## Overview
 
