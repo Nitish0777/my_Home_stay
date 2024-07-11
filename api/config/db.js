@@ -7,7 +7,7 @@ export const connectWithDB = () => {
     .then(console.log(`Connected to database successfully`))
     .catch((err) => {
       console.log(`DB connection failed`);
-      console.log(err);
+      console.log(`err`,err);
       process.exit(1);
     });
 };
