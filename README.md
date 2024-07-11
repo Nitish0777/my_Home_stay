@@ -9,7 +9,7 @@ This project is a full-stack web application developed using MERN stack (MongoDB
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/Vipu97/HomeStays.git](https://github.com/Nitish0777/my_Home_stay.git)
+   git clone https://github.com/Nitish0777/my_Home_stay.git
 
    ```
 
