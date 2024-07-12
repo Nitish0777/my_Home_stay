@@ -21,7 +21,7 @@ This project is a full-stack web application developed using MERN stack (MongoDB
    npm install
    ```
 
-   Similary navigate to api folder and install backend dependencies
+   Similary navigate to api folder and install backend dependencies.
 
    ```
    npm install
